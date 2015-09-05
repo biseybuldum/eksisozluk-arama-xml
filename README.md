@@ -11,4 +11,3 @@ url'in başında https://www.eksisozluk.com/ yazmaz.
 
 servis üzerinde iki şekilde arama yapabilirsiniz. ya http://siteadresiniz.com/home/arama adresine "kelime" name'i ile bir post gönderin ya da http://siteadresiniz.com/home/arama/$kelime url yapısını kullanın. test etmek için de direkt olarak http://sozluk.biseybuldum.com adresi üzerinden manuel sorgu gönderebilirsiniz.
 
-eğer birden fazla kelimeden oluşan bir sorgu gönderecekseniz, kelimelerin arasında boşluk bırakmayın, bunun yerine + koyun. örnek: koca+kafalı+biseybuldum
